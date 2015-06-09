@@ -1,0 +1,14 @@
+ iStupid
+ by Raul Siles
+
+ iStupid, indescreet SSID tool (for the) unknown PNL (on) iOS devices, is a Python-based tool for Linux that allows deleting Wi-Fi network entries from the hidden PNL of Apple iOS mobile devices. 
+
+ Version 1.0: Initial version.
+ 
+ Version 1.5: Adds multiple new options for monitoring clients, creating hidden networks and launching DoS attacks, for both Android and iOS (see the changelog inside the source code). 
+
+
+ For more information see http://www.dinosec.com/en/lab.html#iStupid and http://www.dinosec.com/en/lab.html#Rooted2013WiFi.
+
+ Copyright (c) 2015 DinoSec SL (www.dinosec.com)
+
